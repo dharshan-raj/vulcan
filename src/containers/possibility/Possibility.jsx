@@ -1,5 +1,5 @@
 import React from 'react';
-import possibilityImage from '../../assets/possibility.png';
+import possibilityImage from '../../assets/OIP (5).webp';
 import './possibility.css';
 
 const Possibility = () => (
@@ -8,10 +8,10 @@ const Possibility = () => (
       <img src={possibilityImage} alt="possibility" />
     </div>
     <div className="gpt3__possibility-content">
-      <h4>Request Early Access to Get Started</h4>
-      <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-      <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-      <h4>Request Early Access to Get Started</h4>
+      <h4>Start Your Fitness Journey</h4>
+      <h1 className="gradient__text">Unleash Your Strength <br /> Transform Your Life.</h1>
+      <p>At Vulcan Fitness Studio, we help you build muscle, burn fat, and improve your overall lifestyle. From bodybuilding to yoga, our programs are designed to support every fitness level.</p>
+      <h4> Get Started</h4>
     </div>
   </div>
 );

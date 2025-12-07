@@ -4,28 +4,30 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'Train With Purpose',
+    text: 'At Vulcan Fitness Studio, fitness isn’t just a routine — it’s a lifestyle. We help you unlock your potential through structured training, consistency, and motivation.',
+
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'Programs for Every Goal',
+    text: 'Whether your goal is fat loss, strength building, muscle gain, or overall fitness, we offer personalized plans and professional guidance to help you get there faster.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Your Journey Starts Today',
+    text: 'Nothing changes until you decide to start. Commit to your goals, show up every day, and we’ll help you transform into the strongest version of yourself.',
+
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
+    title: 'Ignite Your Strength',
+    text: 'At Vulcan Fitness Studio, every workout brings you closer to the strongest version of yourself.We guide you with proper training, discipline, and focus so you can transform your body and mind.Start today — your future self willthank you.',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">Forge Your Strength.Transform Your Body. Welcome to Vulcan Fitness Studio.</h1>
+      <p>Train the Vulcan Way</p>
     </div>
     <div className="gpt3__features-container">
       {featuresData.map((item, index) => (

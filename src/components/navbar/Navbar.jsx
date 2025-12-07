@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../logo.svg';
+import logo from '../../assets/WhatsApp Image 2025-12-07 at 15.08.44_04176fd9.jpg';
 import './navbar.css';
 
 const Navbar = () => {
@@ -10,19 +10,19 @@ const Navbar = () => {
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_logo">
-          <img src={logo} />
+          <img src={logo} alt="GPT3 Logo" />
         </div>
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">What is GPT3?</a></p>
-          <p><a href="#possibility">Open AI</a></p>
-          <p><a href="#features">Case Studies</a></p>
-          <p><a href="#blog">Library</a></p>
+          <p><a href="#wgpt3">Membership Plans</a></p>
+          <p><a href="#possibility">Get Started</a></p>
+          <p><a href="#features">Train the Vulcan Way</a></p>
+          <p><a href="#blog">Our Programs</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">
         <p>Sign in</p>
-        <button type="button">Sign up</button>
+        <button type="button">Register</button>
       </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu
@@ -39,7 +39,7 @@ const Navbar = () => {
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
             <p>Sign in</p>
-            <button type="button">Sign up</button>
+            <button type="button">Register</button>
           </div>
         </div>
         )}
