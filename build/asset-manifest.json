@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.046a1a0f.chunk.css",
+    "main.js": "/static/js/main.c99c9434.chunk.js",
+    "main.js.map": "/static/js/main.c99c9434.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.166f362e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.166f362e.js.map",
+    "static/js/2.2e19e702.chunk.js": "/static/js/2.2e19e702.chunk.js",
+    "static/js/2.2e19e702.chunk.js.map": "/static/js/2.2e19e702.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.046a1a0f.chunk.css.map": "/static/css/main.046a1a0f.chunk.css.map",
+    "static/js/2.2e19e702.chunk.js.LICENSE.txt": "/static/js/2.2e19e702.chunk.js.LICENSE.txt",
+    "static/media/OIP (1).90561646.webp": "/static/media/OIP (1).90561646.webp",
+    "static/media/OIP (2).0722e0ba.webp": "/static/media/OIP (2).0722e0ba.webp",
+    "static/media/OIP (3).06b93e1a.webp": "/static/media/OIP (3).06b93e1a.webp",
+    "static/media/OIP (4).ec9a394d.webp": "/static/media/OIP (4).ec9a394d.webp",
+    "static/media/OIP (5).ff39c7dd.webp": "/static/media/OIP (5).ff39c7dd.webp",
+    "static/media/OIP (6).3091f766.webp": "/static/media/OIP (6).3091f766.webp",
+    "static/media/WhatsApp Image 2025-12-07 at 15.08.44_04176fd9.730ebd73.jpg": "/static/media/WhatsApp Image 2025-12-07 at 15.08.44_04176fd9.730ebd73.jpg",
+    "static/media/fitness-body-builder-illustrations-0v4indqsr1cle3jt.1d9f5600.jpg": "/static/media/fitness-body-builder-illustrations-0v4indqsr1cle3jt.1d9f5600.jpg",
+    "static/media/people.5cd2d6fb.png": "/static/media/people.5cd2d6fb.png",
+    "static/media/zumba-dance-workout.432e43ba.webp": "/static/media/zumba-dance-workout.432e43ba.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166f362e.js",
+    "static/js/2.2e19e702.chunk.js",
+    "static/css/main.046a1a0f.chunk.css",
+    "static/js/main.c99c9434.chunk.js"
+  ]
+}
